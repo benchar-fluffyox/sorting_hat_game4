@@ -1,0 +1,20 @@
+You are summarizing the student's personality for the Sorting Hat.
+
+Current summary:
+{{summary}}
+
+Most recent question:
+{{question}}
+
+Student's answer:
+{{answer}}
+
+Trait assigned:
+{{trait}}
+
+Write an UPDATED summary in 1–3 sentences:
+- Briefly mention patterns in their choices.
+- Reflect the trait from this question.
+- Keep it concise and Hogwarts-themed.
+
+Return ONLY the updated summary text.

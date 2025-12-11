@@ -1,0 +1,27 @@
+You are helping the Sorting Hat understand a student's choice.
+
+Question:
+{{question}}
+
+Options:
+{{options}}
+
+Student's raw answer:
+{{input}}
+
+Your job:
+- Interpret their answer and map it to exactly ONE of these traits:
+  - trait_bravery      (courage, boldness, protecting others)
+  - trait_loyalty      (kindness, loyalty, support, staying beside others)
+  - trait_wisdom       (intelligence, logic, thoughtfulness, cleverness)
+  - trait_ambition     (drive, power, strategy, long-term goals)
+
+Rules:
+- If the student types a number (1–4), map it to the corresponding option.
+- If they type words, match based on meaning.
+- Always choose the CLOSEST trait.
+- Respond with ONLY one of:
+  trait_bravery
+  trait_loyalty
+  trait_wisdom
+  trait_ambition

@@ -1,0 +1,51 @@
+### Report ###
+
+My games an interactive game inspired by the ceremony of the sorting hat at Hogwarts school of Witchcraft and Wizadry.
+The new player has bought their wands at Olivanders and all their school supplies at Hogsmeade. Tonight marks the day the students
+discover which house they will be sorted into hogwarts for their time as rising withces and wizards. The 4 houses: Gryffindor, Slytherin,
+Ravenclaw, and Hufflepuff each have their own associated the character traits. To be sorted, the player must answer 5 questions for the sorting
+hat to decide which house best suits their personality. 
+
+Each question has four answers corresponding to the traits of the 4 houses. The LLM interprets the player's response to determine which answer it best
+correlated to. If selected, an answer chioce assign point to the Hogwarts houses. After all 5 questions have been answered, the sorting hat evaluates
+the point total for each house and assigns the player to the most suitable house. The game ends with a personalized “Sorting Hat Review,” 
+reflecting the player's choices and describing why they were placed into that house.
+
+The game resets automatically at each run, ensuring each playthrough begins fresh.
+Each game run is short (about 1–2 minutes), fully interactive, and produces a final JSON state and a story log.
+
+### LLM Tasks Applied ###
+
+This game involves multiple different LLM techniques. Together, the LLM must repeatedly digest its own prior outputs and make state-dependent decisions.
+
+Task 1: interpret.text
+    The LLM receives the question text, all 4 answer choices, and the exact players input. It then interprets the player's response and assings it to
+    one of four traits, corresponding with the 4 Houses: trait_bravery (Gryffindor), trait_loyalty (hufflepuff), trait_wisdom (ravenclaw), and 
+    trait_ambition (Slytherin)
+
+Task 2: update_state.txt 
+    This part of the LLM receives the entire current JSON state. It modifies the JSON, add house points based on user answer, increment each turn,
+    detect game ending conditions (after 5 questions), and return a valid JSON object only. The next turn feeds this updated JSON back into the LLM, 
+    creating a feedback loop. This satisfies the assignment’s requirement for self-digesting LLM behavior.
+
+Task 3: summarize.txt
+    After each question, the LLM summarizes the current accumlated personality description, the lateset question, the player's answer, and the interpreted trait.
+
+Task 4: review.txt
+    At the end of the game, the LLM receives: the final JSON with the house points and assigned house, and the entire personality summary.
+    This creates a personable and exiciting review speech from the Sorting Hat, encouraging the student for their time at Hogwarts!
+
+### My Discovery ###
+
+While creating this game, I discovered 3 very important concepts:
+
+1. Simplicity in the game design improves user friendliness. Since we have interpret.txt and summarize.txt, the player can input a phrase, number,
+or a word, allowing flexibility. Also giving the user options helps for decision making. 
+
+2. When the LLM reads and updates its own state, the game becomes dynamic. The model essentially becomes a state machine that evolves over time. 
+Not that I didn't know this, but I think it's fasicnating to see in action how LLM's can develop on their own by learning from user input and output. 
+
+3. Giving each task a very specific job (“interpret only,” “update JSON only,” “summarize only”) significantly improved reliability and predictability.
+In summary, LLMs benefit from role constraints, because giving it a certain job leaves less direction for wonder and completing different tasks. Instead, 
+giving clear direction allows the LLM to only focus on a certain job. 
+

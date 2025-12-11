@@ -1,0 +1,13 @@
+{
+    "turn": 0,
+    "game_over": false,
+    "final_house": "",
+    "story_summary": "",
+    "asked_questions": [],
+    "house_points": {
+        "gryffindor": 0,
+        "hufflepuff": 0,
+        "ravenclaw": 0,
+        "slytherin": 0
+    }
+}

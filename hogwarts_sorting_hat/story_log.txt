@@ -1,0 +1,462 @@
+hiAs you emerge from the dense foliage of the forest, a soft breeze rustles the leaves above, carrying with it the earthy scent of damp soil. The late afternoon sun bathes the clearing in a warm golden light, casting long shadows across the forest floor. The chirping of birds and buzzing of insects fills the air, adding to the tranquil ambiance. In the distance, you spot a stream trickling gently over moss-covered rocks, its crystal-clear waters inviting and cool. What will you do next? Will you explore the stream for fresh water, search the area for edible plants, follow the path deeper into the forest, or perhaps rest and replenish your energy?
+
+The player stands at the edge of the forest path, surrounded by towering trees that block out most of the sunlight. The air is cool and earthy, filled with the sound of rustling leaves and the distant call of a bird. A gentle breeze carries the scent of pine and damp moss. In the distance, a faint growling can be heard, a sign of potential danger. The path ahead forks, leading deeper into the forest. 
+
+Possible actions:
+1. Follow the path to the left.
+2. Investigate the source of the growling sound.
+3. Rest and regain some energy before continuing.
+4. Search for materials to add to your inventory.
+5. Check your health and energy levels.
+
+As you make your way down the dimly lit Forest Path, the dense canopy above casts shadows that dance across the forest floor. The air is cool and damp, carrying the scent of earth and pine. In the distance, you hear the gentle rustling of leaves and the distant call of a bird. As you continue on, you stumble upon a small clearing where a babbling brook cuts through the landscape. Ahead, you see a path veering off to the right, disappearing into the thick undergrowth. 
+
+Possible actions:
+1. Follow the path veering off to the right.
+2. Investigate the babbling brook.
+3. Rest and regain some energy by the stream.
+4. Search the area for any items of interest.
+5. Continue on the main Forest Path.
+
+As you walk down the Forest Path, the smell of pine trees fills the air, the sound of rustling leaves creating a soothing background noise. The temperature drops slightly as the shadows of the trees stretch across the path, hinting at the approaching night. In the distance, you can see a faint flickering light, possibly a campfire. You notice your energy levels starting to dip as the day wears on. As you continue forward, you spot a small stream running alongside the path.
+
+Possible actions:
+1. Investigate the campfire and possibly find shelter for the night.
+2. Rest by the stream to replenish your energy.
+3. Keep moving forward along the path.
+4. Search your inventory for any useful items.
+5. Investigate any potential dangers in the area.
+
+As you continue along the winding Forest Path, the air feels crisp and clean, carrying the scent of pine and damp earth. The rustling of leaves overhead hints at the presence of unseen wildlife, while a gentle breeze brushes against your skin, cooling you slightly. Ahead, the path forks, leading deeper into the dense forest in one direction and towards a clearing in the other. The sound of a distant stream adds to the tranquility of the scene, inviting you to pause and take in your surroundings. Possible actions: 1) Follow the path deeper into the forest. 2) Explore the clearing ahead. 3) Listen carefully for any signs of danger. 4) Collect some of the nearby wild berries for later.
+
+As you walk along the Forest Path, the lush green canopy overhead filters the warm rays of sunlight, creating dappling patterns on the forest floor. The air is filled with the earthy scent of damp leaves and the sound of birds chirping in the distance. Suddenly, you hear a rustling noise ahead, causing you to tense up in anticipation. You see a small clearing up ahead, where a wild boar is digging up the ground for food. It hasn't noticed you yet. 
+
+Possible actions:
+1. Approach the boar cautiously and try to hunt it for food.
+2. Sneak around the boar and continue along the path.
+3. Retreat quietly and find another route through the forest.
+4. Use an item from your inventory to distract the boar.
+5. Wait and observe the boar's behavior before deciding what to do.
+
+As you enter the Forest Entrance, the air is filled with the musty smell of damp earth and the sound of rustling leaves. Sunlight filters through the canopy above, creating dappled patterns on the forest floor. It's cool and refreshing, a stark contrast to the stifling heat of the outside world. You hear the distant call of a bird and the gentle trickle of a nearby stream. 
+
+Ahead, you see two paths branching off in different directions, one leading deeper into the forest and the other veering off to the right. Your energy is still high, but it won't last forever. Do you explore the path to the left, follow the path to the right, or perhaps search for resources near the stream? The choice is yours.
+
+As you stand at the entrance of the forest, tall trees loom overhead, their branches swaying gently in the breeze. The air is filled with the earthy scent of moss and damp leaves, while the chirping of birds and rustling of unseen creatures create a symphony of nature around you. The temperature is cool, but not uncomfortably so, a welcome respite from the blazing sun outside the forest.
+
+You notice a faint rustling in the underbrush to your right, prompting you to investigate. You could also choose to venture further into the forest, perhaps finding a safer spot to rest. Alternatively, you could decide to gather some branches for a makeshift shelter, or take a moment to rest and recover your energy before pressing on.
+
+As you walk along the Forest Trail, the dense canopy above filters sunlight, casting dappled shadows on the moss-covered ground. A chorus of chirping birds fills the air, accompanied by the earthy scent of damp soil and pine needles. The temperature is cool and refreshing, a welcome contrast to the blazing sun you left behind. Suddenly, you hear a rustling in the bushes ahead, prompting you to pause and assess the situation. Would you like to investigate the noise, continue along the trail, rest and replenish your energy, check your inventory for any useful items, or perhaps try to make a fire for warmth and safety?
+
+As you walk along the Forest Trail, the rustling of leaves underfoot fills the air, accompanied by the distant chirping of birds. The scent of pine needles mingles with the crisp, cool breeze, sending a shiver down your spine. Sunlight filters through the dense canopy above, casting dappled shadows on the forest floor. Suddenly, you hear a low growl coming from the bushes ahead, causing your heart to race.
+
+Possible actions:
+1. Approach the bushes cautiously to investigate the source of the growling.
+2. Retreat quietly and try to find a different path through the forest.
+3. Ready your weapon and prepare to defend yourself against whatever may emerge.
+4. Use an item from your inventory to try to lure out whatever is hiding in the bushes.
+5. Call out to see if someone or something will reveal themselves.
+
+As you continue along the Forest Trail, the dense canopy above casts a dappled pattern of sunlight onto the moss-covered ground. The air is filled with the earthy scent of damp leaves and the distant calls of various woodland creatures. The temperature begins to drop slightly, signaling the approach of nightfall. You notice a small stream gurgling softly nearby, its clear water beckoning you to quench your thirst. 
+
+Possible actions:
+1. Follow the stream to see where it leads.
+2. Set up camp and rest for the night.
+3. Explore the surrounding area for any signs of civilization.
+4. Collect some firewood to prepare for the night.
+5. Check your inventory for any useful items.
+
+The player stands at the edge of the forest trail, surrounded by towering trees that block out most of the sunlight. The air is cool and damp, carrying the scent of pine needles and earth. In the distance, the faint sound of wildlife echoes through the dense foliage. As the sun begins to set, a chill settles in the air, hinting at the approaching darkness. 
+
+Possible actions:
+1. Continue exploring the forest trail.
+2. Find a suitable spot to set up camp for the night.
+3. Gather wood for a fire to keep warm.
+4. Search for food or water sources.
+5. Double-check the inventory for any useful items.
+
+The Forest Trail is shrouded in a thick mist, making it difficult to see more than a few feet ahead. Eerie bird calls echo through the trees, adding to the already tense atmosphere. The air is damp and cool, sending a chill down your spine. Suddenly, a rustling in the underbrush alerts you to the presence of wildlife. It could be a harmless squirrel or a dangerous predator.
+
+Possible actions:
+1. Investigate the rustling to see what creature is nearby.
+2. Continue along the trail cautiously, keeping an eye out for any potential dangers.
+3. Try to navigate through the mist and find a safe place to rest.
+4. Use any items in your inventory to protect yourself.
+5. Try to make a fire to warm up and dispel the fog.
+
+As you stand in the Forest Clearing, the gentle rustling of leaves fills the air, accompanied by the sweet scent of pine. The temperature is cool, with a slight breeze brushing against your skin. In the distance, you spot a small stream flowing peacefully. Suddenly, a bird's call breaks the silence, causing you to pause and listen. 
+
+Possible actions:
+1. Follow the stream to see where it leads.
+2. Search the clearing for any edible plants or resources.
+3. Investigate the source of the bird's call.
+4. Take a moment to rest and regain some energy.
+5. Head back into the forest to explore further.
+
+As the player stands in the Forest Clearing, a gentle breeze rustles through the lush green trees, carrying with it the fresh scent of pine and damp earth. The temperature is cool, but the sun peeks through the canopy, warming your skin. In the distance, you hear the distant chirping of birds and the gentle trickle of a nearby stream. The forest seems peaceful, but who knows what dangers may lie beyond the trees. Will you explore deeper into the forest, gather firewood for the night, set up camp in the clearing, hunt for food, or try to find a path back to civilization?
+
+As you stand in the Forest Clearing, the sunlight filters through the canopy above, casting dappled shadows on the lush green ferns. Birds chirp and squirrels scurry about, the air filled with the sweet scent of pine and earth. The temperature is cool, with a gentle breeze rustling the leaves. In the distance, you hear the faint gurgling of a stream. 
+
+You could choose to investigate the stream, search for edible berries in the surrounding bushes, build a shelter for the night, check your supplies in your inventory, or simply rest and take in the serene surroundings.
+
+You stumble upon a wild berry bush in the forest. The berries look ripe and inviting, but you've heard stories of poisonous berries in the area. Do you risk eating the berries to satisfy your hunger, or search for other food sources?
+
+You feel a rumble beneath your feet as the ground shakes. You see a massive bear emerging from the trees, its eyes fixed on you. What do you do?
+
+You hear a rustling in the bushes nearby and see a wolf emerge from the shadows, its eyes fixed on you. It looks hungry and ready to pounce. What will you do?
+
+As you continue through the dense forest, a sudden rustling in the bushes startles you. You see a large bear emerging from the shadows, its eyes fixed on you. Its growls echo through the trees, and you realize you must make a quick decision on how to handle this dangerous encounter.
+
+It is turn 1. The sun is setting, and you realize you need to find shelter before nightfall. You spot a cave in the distance, but you hear growling coming from inside.
+
+As the sun begins to set, you hear a low growl coming from behind the bushes. Peering through the dense foliage, you spot a large, starving mountain lion eyeing you hungrily. Your heart races as you realize you have wandered into its territory.
+
+As you continue through the dense forest, you stumble upon a snake coiled up on the path, ready to strike. You quickly step back, narrowly avoiding its venomous bite. The snake slithers away into the underbrush, leaving you shaken but unharmed.
+
+As you continue through the dense forest, you stumble upon a clearing with a peaceful stream. Feeling parched, you bend down to drink from the cool water when you spot movement on the other side of the stream. A family of deer cautiously watches you from a distance, their eyes wide with curiosity.
+
+As you hike deeper into the forest, you stumble upon a small stream with fresh water. Your water bottle is nearly empty, so you eagerly refill it before continuing on your journey.
+
+You stumble upon a small creek, and realize how thirsty you are. You fill your canteen with fresh water and take a moment to rest by the peaceful stream.
+
+You come across a swiftly moving river blocking your path through the forest. The only way across seems to be a rickety bridge made of old logs and vines. It looks unstable, but you don't see any other options.
+
+The player stumbles upon a river and sees a small fishing boat tethered to the shore. As they approach, they hear rustling in the bushes behind them. Out steps a group of hostile locals demanding the player's supplies in exchange for safe passage through their territory.
+
+It is turn 8.
+You cautiously enter the ancient ruins and discover a dark, winding tunnel leading underground. 
+Shadows dance upon the walls as you hear faint whispers echoing through the stone corridors. 
+Choose:
+1. Proceed deeper into the tunnel.
+2. Retreat back into the forest.
+3. Search for a source of light.
+4. Listen closely to the whispers.
+
+This is turn 9.
+
+Choose:
+1. You decide to take the ancient artifact with you on your journey.
+2. You feel uneasy and decide to leave the artifact behind.
+3. You choose to investigate the surrounding area for any more hidden treasures.
+4. You continue deeper into the ruins, searching for any clues about the artifact's origin.
+
+This is turn 10.
+
+You stumble upon a hidden path leading deeper into the forest, shrouded in darkness and mystery.
+A faint whispering sound fills the air, sending shivers down your spine as you debate whether to follow it.
+
+Choose:
+1. Venture down the hidden path.
+2. Continue exploring the ruins.
+3. Head back the way you came.
+4. Climb a nearby tree to get a better view of your surroundings.
+
+It is turn 11.
+
+You hear rustling in the bushes nearby, alerting you to potential danger. The shadows grow longer as evening approaches. The whispering voice grows louder, urging you deeper into the forest.
+
+Choose:
+1. Investigate the rustling sound.
+2. Retreat to find shelter for the night.
+3. Follow the voice into the darkness.
+4. Search for a higher vantage point to survey the area.
+
+This is turn 12.
+
+You stumble upon a hidden clearing in the forest, surrounded by ancient stone pillars covered in intricate carvings. The air here feels charged with an otherworldly energy.
+
+Choose:
+1. Examine the carvings on the stone pillars.
+2. Approach the center of the clearing.
+3. Search for any signs of life nearby.
+4. Continue deeper into the forest.
+
+Turn 1: As you continue through the dense forest, you stumble upon a mysterious cave entrance hidden behind a curtain of vines. The sound of echoing drips fills the air, and a faint glow emanates from within the depths. 
+
+Choose:
+1. Aggressive action (fight/push forward/take risk)
+2. Escape action (run/avoid danger/retreat)
+3. Resource action (search/use items/gather resources)
+4. Strategic action (observe/plan/rest/negotiate)
+
+It is turn 1.
+
+You come across a dense thicket of thorny bushes blocking your path. It seems impenetrable, but you can hear faint rustling on the other side. The air feels tense with the unknown.
+
+Choose:
+1. Aggressive action (fight through the thicket)
+2. Escape action (try to find a way around)
+3. Resource action (search for a tool to cut through)
+4. Strategic action (observe the thicket for any signs of danger)
+
+It is turn 2.
+
+Amidst the dense forest, you stumble upon a mysterious cave entrance, its dark depths beckoning to you with an eerie silence. The moss-covered rocks and ancient vines add to the ominous atmosphere, hinting at unknown dangers lurking within.
+
+Choose:
+1. Aggressive action (fight/push forward/take risk)
+2. Escape action (run/avoid danger/retreat)
+3. Resource action (search/use items/gather resources)
+4. Strategic action (observe/plan/rest/negotiate)
+
+It's turn 3.
+You come across a mysterious ancient ruin hidden deep within the forest, overgrown with vines and moss. The eerie silence seems to be watching your every move, sending shivers down your spine.
+Choose:
+1. Aggressive action (fight/push forward/take risk)
+2. Escape action (run/avoid danger/retreat)
+3. Resource action (search/use items/gather resources)
+4. Strategic action (observe/plan/rest/negotiate)
+
+It is turn 3. As you venture deeper into the forest, you come across a dense thicket filled with tangled branches and thorns. Beyond the thicket, you catch a glimpse of something shiny reflecting the sunlight. 
+
+Choose:
+1. Aggressive action (fight through the thicket)
+2. Escape action (try to find a way around the thicket)
+3. Resource action (search the thicket for useful items)
+4. Strategic action (observe the area for any hidden dangers)
+
+It is turn 4.
+
+You come across a dense thicket of thorny bushes, blocking your path through the forest. The thorns glisten with a mysterious liquid, giving off a faint odor that makes your head swim. You feel a sense of foreboding as you realize this could be a dangerous trap set by someone—or something.
+
+Choose:
+1. Aggressive action (fight through the thicket/take a risk)
+2. Escape action (try to find a way around the thicket/retreat)
+3. Resource action (collect some of the thorns for later use/search for a safer path)
+4. Strategic action (take a moment to observe the surroundings/plan your next move)
+
+It is turn 1.
+
+You stumble upon a dense thicket of thorny bushes blocking your path. As you try to find a way around, you hear rustling sounds coming from within, indicating something might be lurking in the shadows.
+
+Choose:
+1. Aggressive action (fight/push forward/take risk)
+2. Escape action (run/avoid danger/retreat)
+3. Resource action (search/use items/gather resources)
+4. Strategic action (observe/plan/rest/negotiate)
+
+This is turn 0.
+
+You come across an old, abandoned cabin deep in the heart of the forest. The wooden structure looks weathered and forgotten, with vines creeping up the walls. The door creaks open slightly, inviting you inside.
+
+Choose:
+1. Aggressive action (fight/push forward/take risk)
+2. Escape action (run/avoid danger/retreat)
+3. Resource action (search/use items/gather resources)
+4. Strategic action (observe/plan/rest/negotiate)
+
+It is turn 2.
+
+As you press deeper into the forest, you come across a clearing filled with vibrant wildflowers and buzzing bees. The sunlight filters through the canopy, creating a serene atmosphere despite the looming sense of danger.
+
+Choose:
+1. Aggressive action (fight off bees/explore the clearing)
+2. Escape action (leave the clearing/avoid bees)
+3. Resource action (gather wildflowers for potential medicinal use)
+4. Strategic action (observe the surroundings/plan next move)
+
+It is turn 3.
+
+You stumble upon a dense thicket filled with prickly bushes and tangled vines. The thicket extends deep into the heart of the forest, creating an intimidating barrier to progress.
+
+Choose:
+1. Aggressive action (fight through the thicket)
+2. Escape action (try to find a way around the thicket)
+3. Resource action (search for tools to cut through the thicket)
+4. Strategic action (take a moment to survey the surroundings)
+
+It is turn 3.
+
+You stumble upon a dense thicket of thorn bushes, blocking the path ahead. The foliage is so thick that you can't see what lies beyond, but you can hear rustling noises coming from within.
+
+Choose:
+1. Aggressive action (fight through the thorns)
+2. Escape action (try to find another way around)
+3. Resource action (search the bushes for useful items)
+4. Strategic action (take a moment to listen and observe before deciding)
+
+It is turn 4.
+
+You stumble upon an old, decrepit cabin hidden deep within the forest. The door creaks open with a haunting sound, revealing a musty interior filled with cobwebs and dust. The faint smell of decay lingers in the air, and the windows are boarded up, casting the room in darkness.
+
+Choose:
+1. Aggressive action (fight against potential threats)
+2. Escape action (flee the cabin)
+3. Resource action (search for useful items)
+4. Strategic action (take a moment to examine the cabin before making a decision)
+
+It is turn 1.
+
+You stumble upon a dark, foreboding cave entrance hidden behind a dense thicket of thorns. The musty odor of damp earth and decay wafts from within, sending a chill down your spine.
+
+Choose:
+1. Aggressive action (fight/push forward/take risk)
+2. Escape action (run/avoid danger/retreat)
+3. Resource action (search/use items/gather resources)
+4. Strategic action (observe/plan/rest/negotiate)
+
+It is turn 1.
+
+You stumble upon a secluded grove, bathed in dappled sunlight filtering through the canopy above. In the center, a mysterious stone altar stands, covered in intricate carvings. The air here feels heavy with an ancient presence, sending shivers down your spine.
+
+Choose:
+1. Aggressive action (fight/push forward/take risk)
+2. Escape action (run/avoid danger/retreat)
+3. Resource action (search/use items/gather resources)
+4. Strategic action (observe/plan/rest/negotiate)
+
+It is turn 3.
+
+You come across a dense thicket of thorny bushes blocking your path, their sharp spikes glinting in the dappled sunlight. As you cautiously navigate around the edge, you catch a glimpse of a pair of glowing eyes watching you from the shadows within. 
+
+Choose:
+1. Aggressive action (fight/push forward/take risk)
+2. Escape action (run/avoid danger/retreat)
+3. Resource action (search/use items/gather resources)
+4. Strategic action (observe/plan/rest/negotiate)
+
+It is turn 3. As the sun begins to set, you stumble upon a mysterious cave hidden among the dense trees. The entrance is shrouded in darkness, with eerie echoes emanating from within.
+
+Choose:
+1. Aggressive action (fight/push forward/take risk)
+2. Escape action (run/avoid danger/retreat)
+3. Resource action (search/use items/gather resources)
+4. Strategic action (observe/plan/rest/negotiate)
+
+It is turn 4.
+
+You stumble upon a hidden meadow deep within the forest, bathed in dappled sunlight filtering through the thick canopy above. Butterflies flit about colorful wildflowers, and a gentle breeze carries the sweet scent of nectar. However, a faint growl in the distance reminds you that danger lurks in this picturesque setting.
+
+Choose:
+1. Aggressive action (fight/push forward/take risk)
+2. Escape action (run/avoid danger/retreat)
+3. Resource action (search/use items/gather resources)
+4. Strategic action (observe/plan/rest/negotiate)
+
+In your darkest hour, where do you find your strength - in the warmth of friendship, the wisdom of books, the cunning of strategy, or the ambition of success? 
+
+What do you choose?
+When faced with a difficult choice, do you tend to rely on your bravery, loyalty, wit, or ambition to guide you? What do you choose?
+In Hogwarts, one must choose bravery, loyalty, wisdom, or ambition. Tell me, dear student, which trait resonates within your heart? What do you choose?
+In your journey through the Forbidden Forest, who would you seek guidance from: a wise centaur, a mischievous unicorn, or a mystical Thestral? What do you choose?
+In your opinion, which magical creature do you find most fascinating and why? 
+What do you choose?
+In the darkness of the Forbidden Forest, which mythical creature would you seek out for advice and why? What do you choose?
+Do you often find yourself drawn to exploring the mysteries of the castle and seeking knowledge beyond your required studies? What do you choose?
+In the corridors of Hogwarts, which path would your heart lead you to explore: the one bathed in moonlight or the one lit by flickering torches? What do you choose?
+In the depths of the Forbidden Forest, you stumble upon a rare magical creature in distress. Would you risk your own safety to help it, or follow the rules and leave it be? What do you choose?
+In your quest for knowledge, do you value wit and cleverness above all else, or do you find wisdom in many different forms? 
+What do you choose?
+What do you value most in a friend?
+1. Courage and bravery
+2. Loyalty and dedication
+3. Intelligence and creativity
+4. Ambition and determination
+Choose 1, 2, 3, or 4.
+Question number 2: What trait do you value most in a friend?
+
+1. Loyalty
+2. Bravery
+3. Wisdom
+4. Ambition
+
+Choose 1, 2, 3, or 4.
+What trait do you value most in friends?
+1. Courage in facing challenges
+2. Staying true and dependable
+3. Seeking knowledge and understanding
+4. Having big dreams and goals
+Choose 1, 2, 3, or 4.
+Question number 4: What quality do you value most in yourself?
+
+1. Courage
+2. Integrity
+3. Intelligence
+4. Determination
+
+Choose 1, 2, 3, or 4.
+What quality do you value most in a friend?
+1. Courage in the face of danger.
+2. Unwavering loyalty and support.
+3. Wise advice and knowledge.
+4. Determination to achieve great success.
+Choose 1, 2, 3, or 4.
+Question number 6: 
+When faced with a difficult decision, what trait do you value most?
+1. Valor
+2. Fidelity
+3. Insight
+4. Aspiration
+Choose 1, 2, 3, or 4.
+Question number 7: Which quality do you value most in a friend?
+
+1. Courage to stand up for what's right
+2. Loyalty to always have your back
+3. Wisdom to give sound advice
+4. Ambition to strive for success
+
+Choose 1, 2, 3, or 4.
+Question number 8: 
+
+You find yourself face-to-face with a dangerous creature in the Forbidden Forest. What do you do? 
+1. Summon all your courage and face it head-on. 
+2. Stand by your friends and take on the creature together. 
+3. Use your knowledge and wit to outsmart the creature. 
+4. See this as an opportunity to prove your worth and ambition. 
+Choose 1, 2, 3, or 4.
+Question number 9: 
+
+Which quality do you value most in yourself?
+
+1. Fearlessness in difficult situations
+2. Sticking by your friends no matter what
+3. Making wise decisions based on knowledge
+4. Having a strong desire to achieve greatness
+
+Choose 1, 2, 3, or 4.
+What quality do you value most in a friend?
+1. Courage and daring
+2. Dedication and trustworthiness
+3. Knowledge and insight
+4. Drive and determination
+Choose 1, 2, 3, or 4.
+You must pick a magical weapon for a duel. What do you choose?
+1. A bold, powerful spell that charges straight in.
+2. A protective charm that shields your allies.
+3. A clever magical tool that helps you outsmart your opponent.
+4. A dark, advanced technique with immense power.
+Player answer: 1
+Interpreted trait: trait_bravery
+
+How would you spend a Saturday night at Hogwarts?
+1. Exploring forbidden corridors or secret passages.
+2. Helping friends or staff with whatever they need.
+3. Studying magical theory and practicing spells.
+4. Planning long-term goals and how to achieve them.
+Player answer: 1
+Interpreted trait: trait_bravery
+
+Your friend at Hogwarts is badly hurt during a duel. What do you do?
+1. Rush in to protect them, no matter the risk.
+2. Stay by their side and comfort them until help arrives.
+3. Think logically and find the safest way to get help.
+4. Look for whoever caused it and make sure it never happens again.
+Player answer: 3
+Interpreted trait: trait_wisdom
+
+What do you look for most in a friend?
+1. Someone courageous and daring.
+2. Someone loyal who never abandons you.
+3. Someone intelligent and thoughtful.
+4. Someone ambitious and driven.
+Player answer: 2
+Interpreted trait: trait_loyalty
+
+What scares you the most?
+1. Failing to protect the people you care about.
+2. Being abandoned or forgotten.
+3. Making the wrong decision at a critical moment.
+4. Being overlooked and never reaching your potential.
+Player answer: 1
+Interpreted trait: trait_bravery
+
